@@ -224,7 +224,7 @@
         "heritage": "skilled",
         "background": "farmhand",
         "class": "fighter",
-        "classFeatFigher": ["reactive-shield"],
+        "classFeatFighter": ["reactive-shield"],
         "inventoryStyle": "full",
         "optionCover": true,
         "optionBuild": true,
