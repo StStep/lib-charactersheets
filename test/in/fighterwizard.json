@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "data": {
+    "type": "character",
+    "id": "19ef088",
+    "attributes": {
+      "game": "pathfinder2",
+      "name": "Fighter Wizard",
+      "ancestry": "human",
+      "heritage": "skilled",
+      "background": "farmhand",
+      "class": "fighter",
+      "classFighterFeats": ["reactive-shield", "power-attack"],
+      "inventoryStyle": "full",
+      "optionCover": false,
+      "optionBuild": false,
+      "optionReference": true,
+      "skillActions": true,
+      "optionPermission": true
+    }
+  }
+}

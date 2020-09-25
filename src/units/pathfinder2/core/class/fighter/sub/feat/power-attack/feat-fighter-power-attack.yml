@@ -1,3 +1,12 @@
 unit: feat/fighter/power-attack
 in: feat/fighter
 name: "_{Power Attack}"
+
+inc:
+  - at: '@actions'
+    add:
+      - action: 2
+        contents:
+          - article: power-attack
+            title: "_{Power Attack}"
+            content: "_{Make a melee strike, this counts as two attacks whem calulcating mutliple attack penalty. Deals an one extra die of damage, or two level 10, or two if level 18. }"
