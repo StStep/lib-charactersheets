@@ -9,4 +9,4 @@ inc:
         contents:
           - article: power-attack
             title: "_{Power Attack}"
-            content: "_{Make a melee strike, this counts as two attacks whem calulcating mutliple attack penalty. Deals an one extra die of damage, or two level 10, or two if level 18. }"
+            content: "_{Make a melee strike that counts as two attacks for mutli-attack penalty and deals one/two/three extra die of damage at level 1+/10+/18+. }"
